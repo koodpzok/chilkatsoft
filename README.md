@@ -1,7 +1,7 @@
 # chilkatsoft
 
-this is library to generate RSA key on 64-bit architecture
-\nWindows: chilkat_x64.dll
-\nLinux: libchilkat.so
+this is library to generate RSA key on 64-bit architecture<br />
+Windows: chilkat_x64.dll<br />
+Linux: libchilkat.so<br />
 
 link: https://www.chilkatsoft.com/java.asp
